@@ -1,0 +1,2 @@
+# sonex
+Hard work
